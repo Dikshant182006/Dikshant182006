@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Dikshant Sharma
 
-<!--
-**Dikshant182006/Dikshant182006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | BCA Student
 
-Here are some ideas to get you started:
+I am a passionate frontend developer with strong fundamentals in HTML, CSS, JavaScript, and React. I enjoy building clean, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+* 📝 Taskify (React Todo App)
+* 🔍 GitHub Profile Viewer (API-based project)
+* ✅ JavaScript Todo App (with localStorage)
+
+## 🛠️ Skills
+
+* HTML, CSS, JavaScript
+* React.js
+* Git & GitHub
+* API Integration
+
+## 🎯 Goal
+
+Currently looking for a frontend internship where I can contribute, learn, and grow as a developer.
+
+## 🌐 Live Projects
+
+* GitHub Viewer: https://github-profile-viewer-dikshant.netlify.app/
+* Todo App: https://todo-app-dikshant.netlify.app/
