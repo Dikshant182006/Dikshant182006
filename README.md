@@ -2,26 +2,59 @@
 
 🚀 Frontend Developer | BCA Student
 
-I am a passionate frontend developer with strong fundamentals in HTML, CSS, JavaScript, and React. I enjoy building clean, responsive, and user-friendly web applications.
+---
 
-## 💼 Projects
+## 💫 About Me
 
-* 📝 Taskify (React Todo App)
-* 🔍 GitHub Profile Viewer (API-based project)
-* ✅ JavaScript Todo App (with localStorage)
+* 💻 Passionate about building responsive web apps
+* ⚡ Strong in HTML, CSS, JavaScript & React
+* 🔗 Love working with APIs and real-world projects
+* 🎯 Currently looking for a Frontend Internship
 
-## 🛠️ Skills
+---
 
-* HTML, CSS, JavaScript
-* React.js
-* Git & GitHub
-* API Integration
+## 🛠️ Tech Stack
+
+* 💻 HTML | CSS | JavaScript
+* ⚛️ React.js
+* 🔗 REST APIs
+* 🧠 DOM Manipulation
+* 🗄️ LocalStorage
+* 🔧 Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔍 GitHub Profile Viewer
+
+👉 Search GitHub users and view profile + top repositories
+🌐 https://github-profile-viewer-dikshant.netlify.app/
+
+---
+
+### 📝 Taskify (React Todo App)
+
+👉 Add, edit, delete and track tasks with persistent storage
+🌐 https://todo-app-dikshant.netlify.app/
+
+---
+
+### ✅ JavaScript Todo App
+
+👉 Manage daily tasks using DOM manipulation and localStorage
+
+---
 
 ## 🎯 Goal
 
-Currently looking for a frontend internship where I can contribute, learn, and grow as a developer.
+To secure a frontend internship where I can apply my skills, contribute to real-world projects, and grow as a developer.
 
-## 🌐 Live Projects
+---
 
-* GitHub Viewer: https://github-profile-viewer-dikshant.netlify.app/
-* Todo App: https://todo-app-dikshant.netlify.app/
+## 📫 Connect With Me
+
+* 📧 Email: dikshantsharma098@gmail.com
+* 💼 LinkedIn: (www.linkedin.com/in/dikshanturl)
+
+---
