@@ -36,14 +36,14 @@
 ### 📝 Taskify (React Todo App)
 
 👉 Add, edit, delete and track tasks with persistent storage
-🌐 https://todo-app-dikshant.netlify.app/
+🌐 https://react-todo-dikshant.netlify.app/
 
 ---
 
 ### ✅ JavaScript Todo App
 
 👉 Manage daily tasks using DOM manipulation and localStorage
-
+🌐 https://todo-app-dikshant.netlify.app/
 ---
 
 ## 🎯 Goal
