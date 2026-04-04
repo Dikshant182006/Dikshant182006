@@ -40,12 +40,6 @@
 
 ---
 
-### ✅ JavaScript Todo App
-
-👉 Manage daily tasks using DOM manipulation and localStorage
-🌐 https://todo-app-dikshant.netlify.app/
----
-
 ## 🎯 Goal
 
 To secure a frontend internship where I can apply my skills, contribute to real-world projects, and grow as a developer.
