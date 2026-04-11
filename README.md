@@ -26,17 +26,17 @@
 
 ## 🚀 Projects
 
-### 🔍 GitHub Profile Viewer
-
-👉 Search GitHub users and view profile + top repositories
-🌐 https://github-profile-viewer-dikshant.netlify.app/
-
----
-
 ### 📝 Taskify (React Todo App)
 
 👉 Add, edit, delete and track tasks with persistent storage
-🌐 https://react-todo-dikshant.netlify.app/
+🌐 https://taskify-react-todo-app.vercel.app/
+
+---
+
+### 🔍 GitHub Profile Viewer
+
+👉 Search GitHub users and view profile + top repositories
+🌐 https://github-profile-viewer-xi-lemon.vercel.app/
 
 ---
 
