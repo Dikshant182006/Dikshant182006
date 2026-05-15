@@ -9,7 +9,6 @@
 * 💻 Passionate about building responsive web apps
 * ⚡ Strong in HTML, CSS, JavaScript & React
 * 🔗 Love working with APIs and real-world projects
-* 🎯 Currently looking for a Frontend Internship
 
 ---
 
@@ -42,7 +41,7 @@
 
 ## 🎯 Goal
 
-To secure a frontend internship where I can apply my skills, contribute to real-world projects, and grow as a developer.
+To secure a Internship where I can apply my skills, contribute to real-world projects, and grow as a developer.
 
 ---
 
