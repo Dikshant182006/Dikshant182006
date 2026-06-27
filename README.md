@@ -1,53 +1,81 @@
 # 👋 Hi, I'm Dikshant Sharma
 
-🚀 Frontend Developer | BCA Student
+🚀 **MERN Stack Developer | BCA Student | Frontend-Focused Engineer**
 
 ---
 
 ## 💫 About Me
 
-* 💻 Passionate about building responsive web apps
-* ⚡ Strong in HTML, CSS, JavaScript & React
-* 🔗 Love working with APIs and real-world projects
+- 💻 Passionate MERN stack developer building scalable web applications  
+- ⚡ Strong foundation in **React, Node.js, Express, MongoDB**
+- 🔗 Love working with APIs and building real-world full-stack projects  
+- 🧠 Focused on writing clean, reusable, and efficient code  
+- 🚀 Currently improving backend architecture and authentication systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 HTML | CSS | JavaScript
-* ⚛️ React.js
-* 🔗 REST APIs
-* 🧠 DOM Manipulation
-* 🗄️ LocalStorage
-* 🔧 Git & GitHub
+### 💻 Frontend
+- HTML5 | CSS3 | JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Context API
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- bcrypt
+
+### 🗄️ Database
+- MongoDB
+- Mongoose
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Postman
+- Vercel | Render
+- VS Code
 
 ---
 
 ## 🚀 Projects
 
-### 📝 Taskify (React Todo App)
-
-👉 Add, edit, delete and track tasks with persistent storage
+### 📝 Taskify – Todo App (React)
+A productivity app to manage tasks with persistent storage  
 🌐 https://taskify-react-todo-app.vercel.app/
 
 ---
 
 ### 🔍 GitHub Profile Viewer
-
-👉 Search GitHub users and view profile + top repositories
+Search GitHub users and view their profile + repositories  
 🌐 https://github-profile-viewer-xi-lemon.vercel.app/
 
 ---
 
-## 🎯 Goal
+### 💰 Crypto Dashboard (MERN Project)
+Real-time crypto market dashboard using APIs  
+👉 (Add your link here if deployed)
 
-To secure a Internship where I can apply my skills, contribute to real-world projects, and grow as a developer.
+---
+
+## 🎯 Current Focus
+
+- 🔐 Authentication (JWT + Cookies)
+- 🌐 Full Stack MERN Applications
+- ⚡ API integration & backend optimization
+- 🚀 Deploying production-ready apps
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: dikshantsharma098@gmail.com
-* 💼 LinkedIn: (www.linkedin.com/in/dikshanturl)
+- 📧 Email: dikshantsharma098@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dikshanturl  
+- 🐙 GitHub: https://github.com/Dikshant182006  
 
 ---
+
+⭐ *“Always learning, building, and improving every day.”*
