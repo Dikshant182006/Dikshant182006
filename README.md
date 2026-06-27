@@ -43,6 +43,14 @@
 
 ## 🚀 Projects
 
+---
+
+### 💰 Crypto Dashboard (MERN Project)
+Real-time crypto market dashboard using APIs  
+🌐 https://cryptoplace-dashboard-mk54.vercel.app/
+
+---
+
 ### 📝 Taskify – Todo App (React)
 A productivity app to manage tasks with persistent storage  
 🌐 https://taskify-react-todo-app.vercel.app/
@@ -52,12 +60,6 @@ A productivity app to manage tasks with persistent storage
 ### 🔍 GitHub Profile Viewer
 Search GitHub users and view their profile + repositories  
 🌐 https://github-profile-viewer-xi-lemon.vercel.app/
-
----
-
-### 💰 Crypto Dashboard (MERN Project)
-Real-time crypto market dashboard using APIs  
-👉 (Add your link here if deployed)
 
 ---
 
@@ -74,7 +76,7 @@ Real-time crypto market dashboard using APIs
 
 - 📧 Email: dikshantsharma098@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/dikshanturl  
-- 🐙 GitHub: https://github.com/Dikshant182006  
+- 🐙 GitHub: https://github.com/Dikshant182006
 
 ---
 
