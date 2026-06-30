@@ -31,7 +31,7 @@
 
 ### 🗄️ Database
 - MongoDB
-- Mongoose
+- MySQL (Basic)
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
