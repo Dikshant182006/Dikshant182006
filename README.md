@@ -47,7 +47,6 @@
 
 ### 💰 Crypto Dashboard (MERN Project)
 Real-time crypto market dashboard using APIs  
-🌐 https://cryptoplace-dashboard-mk54.vercel.app/
 
 ---
 
