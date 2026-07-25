@@ -12,7 +12,11 @@ Building scalable web applications, enterprise systems, and modern digital solut
 
 ```yaml
 name: Dikshant Sharma
-role: Full Stack Developer · Next.js Developer · Backend Engineer
+
+role:
+  - Full Stack Developer
+  - Next.js Developer
+  - Backend Engineer
 
 education:
   degree: BCA
@@ -20,18 +24,12 @@ education:
 
 experience:
   - Full Stack Developer Intern
-  - Building enterprise-level ERP systems
 
-current_build:
-  - Enterprise ERP & POS Platform
-  - Inventory Management Systems
-  - Full Stack SaaS Applications
-
-focus:
-  - Scalable Backend Architecture
+current_focus:
+  - Enterprise Applications
+  - Backend Architecture
   - Database Design
-  - Authentication Systems
-  - Production-ready Applications
+  - Scalable Web Systems
 
 philosophy:
   "Build clean solutions for real-world problems."
@@ -39,65 +37,74 @@ philosophy:
 
 ---
 
-# 🚀 Current Build — Enterprise ERP & POS System
+# 🚀 Current Build
 
-Working on a business management platform designed to handle real-world operations.
+## 🏢 Enterprise ERP & POS Platform (Internship Project)
 
-## Core Modules:
+Currently contributing to a large-scale ERP and POS platform focused on business workflows, inventory operations, and scalable application architecture.
 
-📦 Product Management  
-🏪 Inventory Management  
-🧾 Order Management  
-📊 Dashboard Analytics  
-🔐 Authentication & Authorization  
-📜 Stock History Tracking  
-👥 User Management  
+Working on:
 
+- Modern frontend architecture
+- Backend API development
+- Database workflows
+- Business logic implementation
+- Production-ready features
 
-## Architecture:
+Tech Stack:
 
-Frontend:
 ```
-Next.js + TypeScript + Tailwind CSS
-```
-
-Backend:
-```
-Node.js + Express.js + Prisma ORM
-```
-
-Database:
-```
+Next.js
+TypeScript
+Tailwind CSS
+Node.js
+Prisma
 MySQL
 ```
-
-Features:
-
-✅ Secure authentication  
-✅ REST API architecture  
-✅ Database relationships  
-✅ Stock tracking system  
-✅ Transaction-based operations  
-✅ Scalable project structure  
 
 ---
 
 # 🏗️ Featured Projects
 
+## 📦 Inventory & Order Management System
+
+A full-stack inventory management application designed to manage products, stock operations, and order processing.
+
+Features:
+
+- 🔐 Authentication & Authorization
+- 📦 Product Management
+- 📈 Inventory Tracking
+- 🧾 Order Management
+- 📜 Stock History Tracking
+- 📊 Dashboard Analytics
+
+Tech Stack:
+
+```
+Next.js
+React.js
+Tailwind CSS
+Node.js
+Express.js
+Prisma
+MySQL
+```
+
+---
+
 ## 💰 CryptoPlace — Crypto Market Dashboard
 
-A real-time cryptocurrency tracking platform.
+A real-time cryptocurrency tracking platform using external APIs.
 
-### Features:
+Features:
 
-🚀 Live crypto market data  
-📈 API-based data fetching  
-🔐 Authentication system  
-📊 Dynamic dashboard  
-⚡ Responsive UI  
+- Live crypto market data
+- Dynamic dashboard
+- API integration
+- User authentication
 
-
-### Tech Stack:
+Tech Stack:
 
 ```
 React
@@ -115,12 +122,9 @@ A modern task management application built with React.
 
 Features:
 
-✅ Create tasks  
-✅ Update tasks  
-✅ Delete tasks  
-✅ Persistent storage  
-✅ Clean user interface  
-
+- Create and manage tasks
+- Persistent storage
+- Clean responsive UI
 
 Live:
 
@@ -136,8 +140,7 @@ Features:
 
 - Search GitHub profiles
 - View repositories
-- Fetch user data using API
-
+- API-based data fetching
 
 Live:
 
@@ -146,7 +149,6 @@ https://github-profile-viewer-xi-lemon.vercel.app/
 ---
 
 # 🛠️ Tech Stack
-
 
 ## 💻 Frontend
 
@@ -163,7 +165,6 @@ TanStack Query
 Context API
 ```
 
-
 ## ⚙️ Backend
 
 ```
@@ -176,7 +177,6 @@ Prisma ORM
 bcrypt
 ```
 
-
 ## 🗄️ Database
 
 ```
@@ -184,12 +184,10 @@ MySQL
 MongoDB
 ```
 
-
 ## 🧰 Tools & Platforms
 
 ```
-Git
-GitHub
+Git & GitHub
 Postman
 VS Code
 Vercel
@@ -217,6 +215,7 @@ learning:
 
 ```javascript
 const dikshant = {
+
     role: "Full Stack Developer",
 
     building: [
@@ -225,7 +224,7 @@ const dikshant = {
         "Scalable Web Platforms"
     ],
 
-    technologies: [
+    stack: [
         "Next.js",
         "TypeScript",
         "Node.js",
@@ -266,21 +265,19 @@ console.log(dikshant.mission);
 
 # 🌐 Connect With Me
 
+📧 Email:
 
-📧 Email  
 ```
 dikshantsharma098@gmail.com
 ```
 
-
-💼 LinkedIn
+💼 LinkedIn:
 
 ```
 https://www.linkedin.com/in/dikshanturl
 ```
 
-
-🐙 GitHub
+🐙 GitHub:
 
 ```
 https://github.com/Dikshant182006
@@ -292,6 +289,7 @@ https://github.com/Dikshant182006
 
 ```javascript
 const journey = {
+
     started: "Learning Web Development",
 
     now: [
